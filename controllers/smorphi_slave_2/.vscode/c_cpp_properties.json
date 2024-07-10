@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}",
+                "/usr/local/webots/include/controller/cpp",
+                "${workspaceFolder}/include"
+            ],
+            "defines": []
+        }
+    ],
+    "version": 4
+}
