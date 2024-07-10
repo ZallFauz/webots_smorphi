@@ -24,6 +24,12 @@ webots smorphi adalah simulasi platform robot smorphi yang dikembangkan oleh wef
 1. buka software webots
 2. file -> open world -> kemudian pilih youbot.wbt pada folder worlds
 3. klik tombol panah untuk menggerakkan robot
+   ```bash
+   panah kanan -> gerak kanan
+   panah kiri -> gerak kiri
+   panah atas -> maju
+   panah bawah -> mundur
+   spasi -> unlock virtual solenoid
 
 # catatan
 untuk saat ini baru modul master (berwarna cyan) yang dapat menerima perintah move
